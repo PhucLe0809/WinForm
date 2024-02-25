@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\Desktop\\FHocSinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5749F17-FA69-45A5-9278-FF49F35FE0BD}|FHocSinh\\FStudent.csproj|c:\\users\\thanh\\desktop\\fhocsinh\\fhocsinh\\ucinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5749F17-FA69-45A5-9278-FF49F35FE0BD}|FHocSinh\\FStudent.csproj|solutionrelative:fhocsinh\\ucinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5749F17-FA69-45A5-9278-FF49F35FE0BD}|FHocSinh\\FStudent.csproj|c:\\users\\thanh\\desktop\\fhocsinh\\fhocsinh\\ucinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5749F17-FA69-45A5-9278-FF49F35FE0BD}|FHocSinh\\FStudent.csproj|solutionrelative:fhocsinh\\ucinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Desktop\\FHocSinh\\FHocSinh\\UCInformation.cs",
+              "RelativeDocumentMoniker": "FHocSinh\\UCInformation.cs",
+              "ToolTip": "C:\\Users\\thanh\\Desktop\\FHocSinh\\FHocSinh\\UCInformation.cs [Design]",
+              "RelativeToolTip": "FHocSinh\\UCInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T13:29:09.135Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCInformation.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Desktop\\FHocSinh\\FHocSinh\\UCInformation.cs",
+              "RelativeDocumentMoniker": "FHocSinh\\UCInformation.cs",
+              "ToolTip": "C:\\Users\\thanh\\Desktop\\FHocSinh\\FHocSinh\\UCInformation.cs",
+              "RelativeToolTip": "FHocSinh\\UCInformation.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAtwBcBAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T13:29:09.151Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

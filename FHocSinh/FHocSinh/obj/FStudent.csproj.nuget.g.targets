@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)c1.win\8.0.20233.636\buildTransitive\net8.0-windows7.0\C1.Win.targets" Condition="Exists('$(NuGetPackageRoot)c1.win\8.0.20233.636\buildTransitive\net8.0-windows7.0\C1.Win.targets')" />
+    <Import Project="$(NuGetPackageRoot)c1.win.input\8.0.20233.636\buildTransitive\net8.0-windows7.0\C1.Win.Input.targets" Condition="Exists('$(NuGetPackageRoot)c1.win.input\8.0.20233.636\buildTransitive\net8.0-windows7.0\C1.Win.Input.targets')" />
+  </ImportGroup>
+</Project>
